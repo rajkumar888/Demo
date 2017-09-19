@@ -14,7 +14,7 @@ public class Hello3 extends Browser {
 		getBrowser("chrome");
 		getBrowser("firefox");
 		getBrowser("ieexplorer");
-		System.out.println("hello");
+		
 		
 		//driver.get("https://www.google.com");
 		
